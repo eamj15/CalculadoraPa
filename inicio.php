@@ -23,7 +23,7 @@
                     <li class="nav-item"><a class="nav-link" href="farmacia.php">Farmacia</a></li>
                     <li class="nav-item"><a class="nav-link" href="inicio.php">Citas</a></li>
                     <li class="nav-item"><a class="nav-link" href="footer.php">Contáctanos</a></li>
-                    <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
+                    <li class="nav-item"><a class="nav-link" href="perfil.php">Perfil</a></li>
                 </ul>
             </div>
         </div>

@@ -24,6 +24,8 @@
         </form>
         <p class="text-center mt-3">
           ¿No tienes una cuenta? <a href="registro.php">Registrate</a>
+          <br>
+          Olvidaste la contraseña? <a href="contrasena.php"> Recuperar </a>
         </p>
       </div>
     </div>
